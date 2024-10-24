@@ -9,4 +9,3 @@ Olá sou MIguel Artur, sou um programador estudante full stack, estou aprendendo
 [![Miguel stats](https://github-readme-stats.vercel.app/api?username=MichalXIX)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalXIX)](https://github.com/anuraghazra/github-readme-stats)
 
-Brevemente irei aprender react e as linguaguagens de programação, como JavaScript e NodeJs.
